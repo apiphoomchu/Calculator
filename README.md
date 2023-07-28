@@ -1,5 +1,6 @@
 Simple Calculator App with SwiftUI
 ==================================
+![Simulator Screenshot - iPhone 14 Pro - 2023-07-29 at 00 11 43](https://github.com/apiphoomchu/Calculator/assets/48949523/728bc8ed-3932-4ac2-a28c-a54c45dd1ceb)
 
 This SwiftUI code implements a simple calculator app that allows users to perform basic arithmetic operations. Users can enter numbers and perform addition, subtraction, multiplication, and division operations.
 
